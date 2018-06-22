@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\35e4f64ec4a291e0b3923be6d5c8c2020ab15c50\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c69e1658c062708d30a998632bf726ea379c9b02\\output\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c69e1658c062708d30a998632bf726ea379c9b02\\output\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d994ee671030834a9cbe2bfd88a8e53adf67e1ef\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\35e4f64ec4a291e0b3923be6d5c8c2020ab15c50\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d994ee671030834a9cbe2bfd88a8e53adf67e1ef\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\modal_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c69e1658c062708d30a998632bf726ea379c9b02\\output\\res\\anim\\modal_in.xml"
+    },
+    {
+        "merged": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\modal_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c69e1658c062708d30a998632bf726ea379c9b02\\output\\res\\anim\\modal_out.xml"
+    },
+    {
+        "merged": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\35e4f64ec4a291e0b3923be6d5c8c2020ab15c50\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\35e4f64ec4a291e0b3923be6d5c8c2020ab15c50\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d994ee671030834a9cbe2bfd88a8e53adf67e1ef\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d994ee671030834a9cbe2bfd88a8e53adf67e1ef\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d994ee671030834a9cbe2bfd88a8e53adf67e1ef\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\35e4f64ec4a291e0b3923be6d5c8c2020ab15c50\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d994ee671030834a9cbe2bfd88a8e53adf67e1ef\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d994ee671030834a9cbe2bfd88a8e53adf67e1ef\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\35e4f64ec4a291e0b3923be6d5c8c2020ab15c50\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c69e1658c062708d30a998632bf726ea379c9b02\\output\\res\\anim\\scale_in.xml"
+    },
+    {
+        "merged": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d994ee671030834a9cbe2bfd88a8e53adf67e1ef\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d994ee671030834a9cbe2bfd88a8e53adf67e1ef\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c69e1658c062708d30a998632bf726ea379c9b02\\output\\res\\anim\\scale_out.xml"
+    },
+    {
+        "merged": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d994ee671030834a9cbe2bfd88a8e53adf67e1ef\\output\\res\\anim\\abc_popup_enter.xml"
+    }
+]

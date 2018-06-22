@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_computer_black_24dp.xml",
+        "source": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_computer_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_search_black_24dp.xml",
+        "source": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_local_printshop_black_24dp.xml",
+        "source": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_local_printshop_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\35e4f64ec4a291e0b3923be6d5c8c2020ab15c50\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\35e4f64ec4a291e0b3923be6d5c8c2020ab15c50\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_arrow_back_black_24dp.xml",
+        "source": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_arrow_back_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_bluetooth_audio_black_24dp.xml",
+        "source": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_bluetooth_audio_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_phone_android_black_24dp.xml",
+        "source": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_phone_android_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_issue.xml",
+        "source": "G:\\work_space\\android-demo\\BluetoothText-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_issue.xml"
+    }
+]

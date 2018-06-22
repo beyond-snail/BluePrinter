@@ -1,0 +1,129 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml:3:5-54
+		INJECTED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml
+		INJECTED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml
+		INJECTED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml
+		INJECTED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml:6:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml:8:22-78
+application
+ADDED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml:10:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.android\build-cache\5a52fbae529a0755fb0ef8d593ad17bedaeb8be6\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\35e4f64ec4a291e0b3923be6d5c8c2020ab15c50\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Administrator\.android\build-cache\e52baeb20d8f244ac13cdf3ccd049203916db78b\output\AndroidManifest.xml:26:5-20
+MERGED from [me.weyye.hipermission:library:1.0.7] C:\Users\Administrator\.android\build-cache\c69e1658c062708d30a998632bf726ea379c9b02\output\AndroidManifest.xml:11:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\d994ee671030834a9cbe2bfd88a8e53adf67e1ef\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\812abfe97de837420bb978255c384a511b63ca16\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\067c16227c6b653a370cfb5d1fd5e2703ab32309\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\3802fb9a63b7bd07b23392f46149f133cead50e7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\7e326a9e8a7cf354aeadbbedb5090047d3607a2d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\79d78bc338bcfe57ff8c1f37363d17cb7ba534e5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\3544aa5beada768f7bf042bfd658e27a4d4b0e25\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\66dcbf056069cc8e0171a005720239a2137699d9\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\399b8b13141aed413122af5f7d46dde030653512\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml:15:9-35
+	android:roundIcon
+		ADDED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml:14:9-68
+	android:allowBackup
+		ADDED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml:12:9-63
+	android:theme
+		ADDED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.example.administrator.bluetoothtest.PrintActivity
+ADDED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml:17:9-29:20
+	android:screenOrientation
+		ADDED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml:21:13-49
+	android:label
+		ADDED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml:19:13-45
+	android:theme
+		ADDED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml:20:13-56
+	android:name
+		ADDED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml:18:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml:22:13-28:29
+action#android.intent.action.MAIN
+ADDED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml:25:27-74
+uses-sdk
+INJECTED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.android\build-cache\5a52fbae529a0755fb0ef8d593ad17bedaeb8be6\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\35e4f64ec4a291e0b3923be6d5c8c2020ab15c50\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Administrator\.android\build-cache\b8192b86ef34873f872cea648c476e013cfaeee5\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Administrator\.android\build-cache\e52baeb20d8f244ac13cdf3ccd049203916db78b\output\AndroidManifest.xml:20:5-44
+MERGED from [me.weyye.hipermission:library:1.0.7] C:\Users\Administrator\.android\build-cache\c69e1658c062708d30a998632bf726ea379c9b02\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\d994ee671030834a9cbe2bfd88a8e53adf67e1ef\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\812abfe97de837420bb978255c384a511b63ca16\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\067c16227c6b653a370cfb5d1fd5e2703ab32309\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\3802fb9a63b7bd07b23392f46149f133cead50e7\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\7e326a9e8a7cf354aeadbbedb5090047d3607a2d\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\79d78bc338bcfe57ff8c1f37363d17cb7ba534e5\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\3544aa5beada768f7bf042bfd658e27a4d4b0e25\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\66dcbf056069cc8e0171a005720239a2137699d9\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\399b8b13141aed413122af5f7d46dde030653512\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\35e4f64ec4a291e0b3923be6d5c8c2020ab15c50\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml
+		INJECTED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml
+		INJECTED from G:\work_space\android-demo\BluetoothText-master\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\35e4f64ec4a291e0b3923be6d5c8c2020ab15c50\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Administrator\.android\build-cache\b8192b86ef34873f872cea648c476e013cfaeee5\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Administrator\.android\build-cache\e52baeb20d8f244ac13cdf3ccd049203916db78b\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\d994ee671030834a9cbe2bfd88a8e53adf67e1ef\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\812abfe97de837420bb978255c384a511b63ca16\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\067c16227c6b653a370cfb5d1fd5e2703ab32309\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\3802fb9a63b7bd07b23392f46149f133cead50e7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\7e326a9e8a7cf354aeadbbedb5090047d3607a2d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\79d78bc338bcfe57ff8c1f37363d17cb7ba534e5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\3544aa5beada768f7bf042bfd658e27a4d4b0e25\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\66dcbf056069cc8e0171a005720239a2137699d9\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\399b8b13141aed413122af5f7d46dde030653512\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\35e4f64ec4a291e0b3923be6d5c8c2020ab15c50\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\35e4f64ec4a291e0b3923be6d5c8c2020ab15c50\output\AndroidManifest.xml:26:9-47
+activity#me.weyye.hipermission.PermissionActivity
+ADDED from [me.weyye.hipermission:library:1.0.7] C:\Users\Administrator\.android\build-cache\c69e1658c062708d30a998632bf726ea379c9b02\output\AndroidManifest.xml:14:9-18:57
+	android:screenOrientation
+		ADDED from [me.weyye.hipermission:library:1.0.7] C:\Users\Administrator\.android\build-cache\c69e1658c062708d30a998632bf726ea379c9b02\output\AndroidManifest.xml:17:13-49
+	android:configChanges
+		ADDED from [me.weyye.hipermission:library:1.0.7] C:\Users\Administrator\.android\build-cache\c69e1658c062708d30a998632bf726ea379c9b02\output\AndroidManifest.xml:16:13-63
+	android:theme
+		ADDED from [me.weyye.hipermission:library:1.0.7] C:\Users\Administrator\.android\build-cache\c69e1658c062708d30a998632bf726ea379c9b02\output\AndroidManifest.xml:18:13-54
+	android:name
+		ADDED from [me.weyye.hipermission:library:1.0.7] C:\Users\Administrator\.android\build-cache\c69e1658c062708d30a998632bf726ea379c9b02\output\AndroidManifest.xml:15:13-68
